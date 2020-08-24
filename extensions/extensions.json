@@ -1,0 +1,38 @@
+[
+    {
+        "name" : "Material Theme",
+        "description" : "Material Theme for clover builder",
+        "path" : "cloverbuilder/material-theme",
+        "author" : "muhammad ridwan",
+        "version" : "1.0",
+        "compatible" : ">=2.6.6",
+        "icon" : "https://github.com/CLoveR-69/myapps/blob/master/material-theme/logo.png?raw=true"
+    },
+    {
+        "name" : "Disable Builder",
+        "description" : "Disable Builder",
+        "path" : "cloverbuilder/disable-builder",
+        "author" : "muhammad ridwan",
+        "version" : "1.0",
+        "compatible" : ">=2.6.7",
+        "icon" : "https://github.com/CLoveR-69/myapps/blob/master/disable-builder/logo.png?raw=true"
+    },
+    {
+        "name" : "Backup Restore Database",
+        "description" : "backup-restore-database",
+        "path" : "cloverbuilder/backup-restore-database",
+        "author" : "muhammad ridwan",
+        "version" : "1.0",
+        "compatible" : ">=2.7.0",
+        "icon" : "https://github.com/CLoveR-69/myapps/blob/master/backup-restore-database/logo.png?raw=true"
+    },
+    {
+        "name" : "Disquss Blog",
+        "description" : "disquss",
+        "path" : "cloverbuilder/disquss",
+        "author" : "muhammad ridwan",
+        "version" : "1.0",
+        "compatible" : ">=2.8.0",
+        "icon" : "https://github.com/CLoveR-69/myapps/blob/master/disquss/logo.png?raw=true"
+    }
+]
